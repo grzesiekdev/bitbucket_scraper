@@ -1,0 +1,8 @@
+__pycache__/
+test/
+venv/
+venv_test/
+bckp.py
+config_own.py
+output.csv
+sth.json
